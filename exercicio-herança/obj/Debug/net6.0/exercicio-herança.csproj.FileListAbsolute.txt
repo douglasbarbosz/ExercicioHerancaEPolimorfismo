@@ -1,0 +1,15 @@
+C:\Users\Uso Exclusivo\Desktop\curso C#\exercicios\herança e polimorfismo\exercicio-herança\exercicio-herança\exercicio-herança\bin\Debug\net6.0\exercicio-herança.exe
+C:\Users\Uso Exclusivo\Desktop\curso C#\exercicios\herança e polimorfismo\exercicio-herança\exercicio-herança\exercicio-herança\bin\Debug\net6.0\exercicio-herança.deps.json
+C:\Users\Uso Exclusivo\Desktop\curso C#\exercicios\herança e polimorfismo\exercicio-herança\exercicio-herança\exercicio-herança\bin\Debug\net6.0\exercicio-herança.runtimeconfig.json
+C:\Users\Uso Exclusivo\Desktop\curso C#\exercicios\herança e polimorfismo\exercicio-herança\exercicio-herança\exercicio-herança\bin\Debug\net6.0\exercicio-herança.dll
+C:\Users\Uso Exclusivo\Desktop\curso C#\exercicios\herança e polimorfismo\exercicio-herança\exercicio-herança\exercicio-herança\bin\Debug\net6.0\exercicio-herança.pdb
+C:\Users\Uso Exclusivo\Desktop\curso C#\exercicios\herança e polimorfismo\exercicio-herança\exercicio-herança\exercicio-herança\obj\Debug\net6.0\exercicio-herança.csproj.AssemblyReference.cache
+C:\Users\Uso Exclusivo\Desktop\curso C#\exercicios\herança e polimorfismo\exercicio-herança\exercicio-herança\exercicio-herança\obj\Debug\net6.0\exercicio-herança.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Uso Exclusivo\Desktop\curso C#\exercicios\herança e polimorfismo\exercicio-herança\exercicio-herança\exercicio-herança\obj\Debug\net6.0\exercicio-herança.AssemblyInfoInputs.cache
+C:\Users\Uso Exclusivo\Desktop\curso C#\exercicios\herança e polimorfismo\exercicio-herança\exercicio-herança\exercicio-herança\obj\Debug\net6.0\exercicio-herança.AssemblyInfo.cs
+C:\Users\Uso Exclusivo\Desktop\curso C#\exercicios\herança e polimorfismo\exercicio-herança\exercicio-herança\exercicio-herança\obj\Debug\net6.0\exercicio-herança.csproj.CoreCompileInputs.cache
+C:\Users\Uso Exclusivo\Desktop\curso C#\exercicios\herança e polimorfismo\exercicio-herança\exercicio-herança\exercicio-herança\obj\Debug\net6.0\exercicio-herança.dll
+C:\Users\Uso Exclusivo\Desktop\curso C#\exercicios\herança e polimorfismo\exercicio-herança\exercicio-herança\exercicio-herança\obj\Debug\net6.0\refint\exercicio-herança.dll
+C:\Users\Uso Exclusivo\Desktop\curso C#\exercicios\herança e polimorfismo\exercicio-herança\exercicio-herança\exercicio-herança\obj\Debug\net6.0\exercicio-herança.pdb
+C:\Users\Uso Exclusivo\Desktop\curso C#\exercicios\herança e polimorfismo\exercicio-herança\exercicio-herança\exercicio-herança\obj\Debug\net6.0\exercicio-herança.genruntimeconfig.cache
+C:\Users\Uso Exclusivo\Desktop\curso C#\exercicios\herança e polimorfismo\exercicio-herança\exercicio-herança\exercicio-herança\obj\Debug\net6.0\ref\exercicio-herança.dll
